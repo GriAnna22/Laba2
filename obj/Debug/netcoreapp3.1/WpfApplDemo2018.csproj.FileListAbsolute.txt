@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.exe
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.deps.json
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.runtimeconfig.json
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.dll
+C:\Users\Admin\Desktop\WpfApplDemo2018\bin\Debug\netcoreapp3.1\WpfApplDemo2018.pdb
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\View\WindowEmployee.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\View\WindowRole.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018_MarkupCompile.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018_MarkupCompile.lref
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\View\WindowEmployee.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\View\WindowRole.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.g.resources
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.dll
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.pdb
+C:\Users\Admin\Desktop\WpfApplDemo2018\obj\Debug\netcoreapp3.1\WpfApplDemo2018.genruntimeconfig.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.exe
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.deps.json
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.runtimeconfig.json
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.dll
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\bin\Debug\netcoreapp3.1\WpfApplDemo2018.pdb
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\View\WindowEmployee.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\View\WindowRole.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018_MarkupCompile.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018_MarkupCompile.lref
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\View\WindowEmployee.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\View\WindowRole.baml
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.g.resources
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.dll
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.pdb
+C:\Users\Admin\Desktop\WpfApplDemo2018 — лаба 2\obj\Debug\netcoreapp3.1\WpfApplDemo2018.genruntimeconfig.cache
